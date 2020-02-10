@@ -1,0 +1,2 @@
+include ':app', ':biometric'
+rootProject.name='Fingerprint'

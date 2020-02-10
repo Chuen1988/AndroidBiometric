@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fingerprint</string>
+
+    <!-- Button -->
+    <string name="btnSavePassword">Save Password</string>
+    <string name="btnGetPassword">Get Password</string>
+</resources>
